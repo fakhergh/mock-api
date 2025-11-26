@@ -1,0 +1,46 @@
+{
+  "banking-types": [
+    {
+      "id": "1",
+      "name_en": "ADCB",
+      "name_ar": "أبوظبي التجاري التقليدي",
+      "slug": "conventional"
+    },
+    {
+      "id": "2",
+      "name_en": "ADCB Islamic",
+      "name_ar": "أبوظبي الإسلامي",
+      "slug": "islamic"
+    }
+  ],
+  "account-types": [
+    {
+      "id": "1",
+      "name_en": "Savings Account",
+      "name_ar": "حساب التوفير",
+      "slug": "savings",
+      "bankingTypeId": "1"
+    },
+    {
+      "id": "2",
+      "name_en": "Current Account",
+      "name_ar": "الحساب الجاري",
+      "slug": "current",
+      "bankingTypeId": "1"
+    },
+    {
+      "id": "1",
+      "name_en": "Islamic Savings Account",
+      "name_ar": "حساب التوفير الإسلامي",
+      "slug": "islamic-savings",
+      "bankingTypeId": "2"
+    },
+    {
+      "id": "2",
+      "name_en": "Islamic Current Account",
+      "name_ar": "الحساب الجاري الإسلامي",
+      "slug": "islamic-current",
+      "bankingTypeId": "2"
+    }
+  ]
+}
