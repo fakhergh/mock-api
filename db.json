@@ -1,4 +1,24 @@
 {
+  "products":[
+    {
+      "id": "1",
+      "name_en": "Accounts",
+      "name_ar": "حسابات",
+      "slug": "account"
+    },
+    {
+      "id": "2",
+      "name_en": "Credit Cards",
+      "name_ar": "بطاقات الائتمان",
+      "slug": "credit-cards"
+    },
+    {
+      "id": "3",
+      "name_en": "Loans",
+      "name_ar": "قروض",
+      "slug": "loans"
+    }
+  ],
   "banking-types": [
     {
       "id": "1",
