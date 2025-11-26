@@ -41,7 +41,8 @@
   ],
   "account-types": [
     {
-      "id": 1,
+      "id": "1",
+      "slug": "current-account",
       "title_en": "Current Account",
       "title_ar": "الحساب الجاري",
       "description_en": "A current account for everyday transactions.",
@@ -65,7 +66,8 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
+      "slug": "savings-account",
       "title_en": "Savings Account",
       "title_ar": "حساب التوفير",
       "description_en": "A basic savings account with competitive interest rates.",
@@ -99,7 +101,8 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
+      "slug": "islamic-current-account",
       "title_en": "Islamic Current Account",
       "title_ar": "الحساب الجاري الإسلامي",
       "description_en": "A Sharia-compliant current account for daily use.",
@@ -123,7 +126,8 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
+      "slug": "islamic-savings-account",
       "title_en": "Islamic Savings Account",
       "title_ar": "حساب التوفير الإسلامي",
       "description_en": "A Sharia-compliant savings account.",
