@@ -1,17 +1,72 @@
 {
   "products": [
-    { "id": "1", "name_en": "Accounts", "name_ar": "حسابات", "slug": "account" },
-    { "id": "2", "name_en": "Credit Cards", "name_ar": "بطاقات الائتمان", "slug": "credit-cards" },
-    { "id": "3", "name_en": "Loans", "name_ar": "قروض", "slug": "loans" }
+    {
+      "id": "1",
+      "name_en": "Accounts",
+      "name_ar": "حسابات",
+      "description_en": "Start banking your way",
+      "description_ar": "ابدأ في إدارة أموالك بطريقتك",
+      "slug": "account"
+    },
+    {
+      "id": "2",
+      "name_en": "Credit Cards",
+      "name_ar": "بطاقات الائتمان",
+      "description_en": "Take the first step towards the future you want",
+      "description_ar": "اتخذ الخطوة الأولى نحو المستقبل الذي تريده",
+      "slug": "credit-cards"
+    },
+    {
+      "id": "3",
+      "name_en": "Loans",
+      "name_ar": "قروض",
+      "description_en": "Find a card that fits your lifestyle",
+      "description_ar": "ابحث عن بطاقة تناسب نمط حياتك",
+      "slug": "loans"
+    }
   ],
   "banking-types": [
-    { "id": "1", "name_en": "ADCB", "name_ar": "أبوظبي التجاري التقليدي", "slug": "conventional" },
-    { "id": "2", "name_en": "ADCB Islamic", "name_ar": "أبوظبي الإسلامي", "slug": "islamic" }
+    {
+      "id": "1",
+      "name_en": "ADCB",
+      "name_ar": "أبوظبي التجاري التقليدي",
+      "slug": "conventional"
+    },
+    {
+      "id": "2",
+      "name_en": "ADCB Islamic",
+      "name_ar": "أبوظبي الإسلامي",
+      "slug": "islamic"
+    }
   ],
   "account-types": [
-    { "id": "1", "name_en": "Savings Account", "name_ar": "حساب التوفير", "slug": "savings", "bankingTypeId": "1" },
-    { "id": "2", "name_en": "Current Account", "name_ar": "الحساب الجاري", "slug": "current", "bankingTypeId": "1" },
-    { "id": "3", "name_en": "Islamic Savings Account", "name_ar": "حساب التوفير الإسلامي", "slug": "islamic-savings", "bankingTypeId": "2" },
-    { "id": "4", "name_en": "Islamic Current Account", "name_ar": "الحساب الجاري الإسلامي", "slug": "islamic-current", "bankingTypeId": "2" }
+    {
+      "id": "1",
+      "name_en": "Savings Account",
+      "name_ar": "حساب التوفير",
+      "slug": "savings",
+      "bankingTypeId": "1"
+    },
+    {
+      "id": "2",
+      "name_en": "Current Account",
+      "name_ar": "الحساب الجاري",
+      "slug": "current",
+      "bankingTypeId": "1"
+    },
+    {
+      "id": "3",
+      "name_en": "Islamic Savings Account",
+      "name_ar": "حساب التوفير الإسلامي",
+      "slug": "islamic-savings",
+      "bankingTypeId": "2"
+    },
+    {
+      "id": "4",
+      "name_en": "Islamic Current Account",
+      "name_ar": "الحساب الجاري الإسلامي",
+      "slug": "islamic-current",
+      "bankingTypeId": "2"
+    }
   ]
 }
