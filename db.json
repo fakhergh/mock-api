@@ -43,6 +43,7 @@
     {
       "id": "1",
       "slug": "current-account",
+      "banking_type_id": "1",
       "title_en": "Current Account",
       "title_ar": "الحساب الجاري",
       "description_en": "A current account for everyday transactions.",
@@ -67,6 +68,7 @@
     },
     {
       "id": "2",
+      "banking_type_id": "1",
       "slug": "savings-account",
       "title_en": "Savings Account",
       "title_ar": "حساب التوفير",
@@ -102,6 +104,7 @@
     },
     {
       "id": "3",
+      "banking_type_id": "2",
       "slug": "islamic-current-account",
       "title_en": "Islamic Current Account",
       "title_ar": "الحساب الجاري الإسلامي",
@@ -127,6 +130,7 @@
     },
     {
       "id": "4",
+      "banking_type_id": "2",
       "slug": "islamic-savings-account",
       "title_en": "Islamic Savings Account",
       "title_ar": "حساب التوفير الإسلامي",
