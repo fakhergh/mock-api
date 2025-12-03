@@ -64,7 +64,21 @@
           "content_en": "Monthly fee: $10",
           "content_ar": "رسوم شهرية: 10 دولار"
         }
-      ]
+      ],
+      "constraints": {
+        "duration_en": "3 - 5",
+        "duration_ar": "3 - 5",
+        "documents_en": [
+          "Emirates ID",
+          "Passport"
+        ],
+        "documents_ar": [
+          "بطاقة الهوية الإماراتية",
+          "نسخة من جواز السفر"
+        ],
+        "eligibility_en": "Over 18, Employed, with a D5,000 minimum monthly salary",
+        "eligibility_ar": "فوق 18 عامًا، موظف، براتب شهري لا يقل عن 5000 درهم"
+      }
     },
     {
       "id": "2",
@@ -100,7 +114,21 @@
           "content_en": "Access to ADCB Personal Internet Banking",
           "content_ar": "الوصول إلى الخدمات المصرفية الشخصية عبر الإنترنت من ADCB"
         }
-      ]
+      ],
+      "constraints": {
+        "duration_en": "3 - 5",
+        "duration_ar": "3 - 5",
+        "documents_en": [
+          "Emirates ID",
+          "Passport"
+        ],
+        "documents_ar": [
+          "بطاقة الهوية الإماراتية",
+          "نسخة من جواز السفر"
+        ],
+        "eligibility_en": "Over 18, Employed, with a D5,000 minimum monthly salary",
+        "eligibility_ar": "فوق 18 عامًا، موظف، براتب شهري لا يقل عن 5000 درهم"
+      }
     },
     {
       "id": "3",
@@ -126,7 +154,21 @@
           "content_en": "Monthly fee: $8",
           "content_ar": "رسوم شهرية: 8 دولار"
         }
-      ]
+      ],
+      "constraints": {
+        "duration_en": "3 - 5",
+        "duration_ar": "3 - 5",
+        "documents_en": [
+          "Emirates ID",
+          "Passport"
+        ],
+        "documents_ar": [
+          "بطاقة الهوية الإماراتية",
+          "نسخة من جواز السفر"
+        ],
+        "eligibility_en": "Over 18, Employed, with a D5,000 minimum monthly salary",
+        "eligibility_ar": "فوق 18 عامًا، موظف، براتب شهري لا يقل عن 5000 درهم"
+      }
     },
     {
       "id": "4",
@@ -152,7 +194,21 @@
           "content_en": "No monthly fees",
           "content_ar": "لا توجد رسوم شهرية"
         }
-      ]
+      ],
+      "constraints": {
+        "duration_en": "3 - 5",
+        "duration_ar": "3 - 5",
+        "documents_en": [
+          "Emirates ID",
+          "Passport"
+        ],
+        "documents_ar": [
+          "بطاقة الهوية الإماراتية",
+          "نسخة من جواز السفر"
+        ],
+        "eligibility_en": "Over 18, Employed, with a D5,000 minimum monthly salary",
+        "eligibility_ar": "فوق 18 عامًا، موظف، براتب شهري لا يقل عن 5000 درهم"
+      }
     }
   ],
   "employment-types": [
