@@ -66,8 +66,8 @@
         }
       ],
       "constraints": {
-        "duration_en": "3 - 5",
-        "duration_ar": "3 - 5",
+        "duration_en": "3 - 5 minutes to set up your account",
+        "duration_ar": "3 - 5 دقائق لإعداد حسابك",
         "documents_en": [
           "Emirates ID",
           "Passport"
@@ -116,8 +116,8 @@
         }
       ],
       "constraints": {
-        "duration_en": "3 - 5",
-        "duration_ar": "3 - 5",
+        "duration_en": "3 - 5 minutes to set up your account",
+        "duration_ar": "3 - 5 دقائق لإعداد حسابك",
         "documents_en": [
           "Emirates ID",
           "Passport"
@@ -156,8 +156,8 @@
         }
       ],
       "constraints": {
-        "duration_en": "3 - 5",
-        "duration_ar": "3 - 5",
+        "duration_en": "3 - 5 minutes to set up your account",
+        "duration_ar": "3 - 5 دقائق لإعداد حسابك",
         "documents_en": [
           "Emirates ID",
           "Passport"
