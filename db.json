@@ -154,5 +154,31 @@
         }
       ]
     }
+  ],
+  "employment-types": [
+    {
+      "id": "1",
+      "name_en": "Salaried",
+      "name_ar": "موظف",
+      "slug": "salaried"
+    },
+    {
+      "id": "2",
+      "name_en": "Non-salaried",
+      "name_ar": "غير موظف",
+      "slug": "none-salaried"
+    },
+    {
+      "id": "3",
+      "name_en": "Self-employed",
+      "name_ar": "عمل حر",
+      "slug": "self-employed"
+    },
+    {
+      "id": "4",
+      "name_en": "Minor (under 21)",
+      "name_ar": "قاصر (أقل من 21)",
+      "slug": "minor"
+    }
   ]
 }
